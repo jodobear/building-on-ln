@@ -54,5 +54,10 @@ var func = async() => {
 4. [RTL c-lightning REST API](https://github.com/Ride-The-Lightning/c-lightning-REST)
 5. [c-lightning lnurl plugin](https://github.com/fiatjaf/lightningd-gjson-rpc/tree/master/cmd/lnurl)
 
+## Examples
+
+* [microbet](https://microbet.fun/) by, [Francisco Calderon](https://twitter.com/negrunch)
+* [lnturubbot, telegram](https://t.me/LnToRubBot)
+* [lnurl examples](https://github.com/btcontract/lnurl-rfc/blob/master/examples.md)
 
 
