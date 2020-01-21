@@ -2,7 +2,7 @@
 
 ## LN Channels
 
-* It is better to open bigger channels than a few smaller channels since, it's a major overhead to manage many channels.
+- It is better to open bigger channels than a few smaller channels since, it's a major overhead to manage many channels.
 
 ## Bitcoinaverage alternatives
 
@@ -39,10 +39,11 @@ var func = async() => {
 3. [Web LN](https://webln.dev/#/)
 4. [BTCPay Server](https://docs.btcpayserver.org/features/lightningnetwork), [chat](https://chat.btcpayserver.org/)
 6. [Polar](https://github.com/jamaljsr/polar) : A visual regtest tool for btc/ln stack
+7. [Awesome LN](https://github.com/bcongdon/awesome-lightning-network) curated list of LN resources(outdated)
 
 ### [LND](https://dev.lightning.community/), [slack](https://app.slack.com/client/T6AK88MGV/C6BKD3RKR?cdn_fallback=2)
 
-1. [LND, dev guides]
+1. [LND, dev guides](https://dev.lightning.community/guides/)
 2. [LND, JS gRPC guide](https://dev.lightning.community/guides/javascript-grpc/)
 3. [LND, webapp Guide](https://dev.lightning.community/tutorial/)
 4. [LND API reference](https://api.lightning.community/)
@@ -57,8 +58,8 @@ var func = async() => {
 
 ## Examples
 
-* [microbet](https://microbet.fun/) by, [Francisco Calderon](https://twitter.com/negrunch)
-* [lnturubbot, telegram](https://t.me/LnToRubBot)
-* [lnurl examples](https://github.com/btcontract/lnurl-rfc/blob/master/examples.md)
-
-
+- [microbet](https://microbet.fun/) by, [Francisco Calderon](https://twitter.com/negrunch)
+- [lnturubbot, telegram](https://t.me/LnToRubBot)
+- [lnurl examples](https://github.com/btcontract/lnurl-rfc/blob/master/examples.md)
+- [Blockstream Lapps](https://blockstream.com/2018/03/29/en-blockstreams-week-of-lapps-ends/)
+- *****[Pragmatic Lightning App](https://mitchelljustin.github.io/pragmatic-lightning/) integrate LND in your app under an hour tutorial.

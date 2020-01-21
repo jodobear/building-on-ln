@@ -25,7 +25,7 @@ Following is the objective and steps to achieve that object for the first 20 hou
 ### 20-01-14:
 ATM it seems the flow will be something like this;
 1. BTCPay backend with c-lightning using `./bitcoin-lightning-cli.sh help` commands.
-2. Install RTL c-lightning API `git clone https://github.com/saubyk/c-lightning-REST && cd c-lightning-REST && npm install`
+2. Install [RTL c-lightning REST API](https://github.com/Ride-The-Lightning/c-lightning-REST) `git clone https://github.com/saubyk/c-lightning-REST && cd c-lightning-REST && npm install`
 3. Then install [lnurl c-lightning plugin](https://github.com/fiatjaf/lightningd-gjson-rpc/tree/master/cmd/lnurl), this might need [lightning charge server](https://github.com/ElementsProject/lightning-charge) as backend.
 4. Then figure out how all of these work within the app and communicate with BTCPay Server. That's all you need.
 
