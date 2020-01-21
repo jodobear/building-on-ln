@@ -1,4 +1,8 @@
-# LN Method of Learning
+# Building on the Lightning Network
+
+Documentation of my journey to learn to build applications on top of the Bitcoin Lightning Network.
+
+Following is the objective and steps to achieve that object for the first 20 hours of study:
 
 ## 1. Target Performance Level
 
@@ -32,11 +36,3 @@ ATM it seems the flow will be something like this;
 3. Read the docs and find out what methods are relevant, document them with signatures and examples.
 4. Setup the ln environment on the server.
 5. Implement the methods.
-
-## 4. Remove Distractions
-
-Before you start this finish Pure React so you are prepared and free of 2 hrs/day. It'd also be nice to finish AS.
-
-## 5. Pre-commit 20 hours
-
-As soon as i finish Pure React, target date 20-01-20.

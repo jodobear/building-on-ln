@@ -41,6 +41,7 @@ var func = async() => {
 6. [Polar](https://github.com/jamaljsr/polar) : A visual regtest tool for btc/ln stack
 
 ### [LND](https://dev.lightning.community/), [slack](https://app.slack.com/client/T6AK88MGV/C6BKD3RKR?cdn_fallback=2)
+
 1. [LND, dev guides]
 2. [LND, JS gRPC guide](https://dev.lightning.community/guides/javascript-grpc/)
 3. [LND, webapp Guide](https://dev.lightning.community/tutorial/)
